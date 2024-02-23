@@ -28,3 +28,4 @@ D:\Web learning\_Portfolio\FrontEnd\Portfolio\obj\Debug\net8.0\refint\Portfolio.
 D:\Web learning\_Portfolio\FrontEnd\Portfolio\obj\Debug\net8.0\Portfolio.pdb
 D:\Web learning\_Portfolio\FrontEnd\Portfolio\obj\Debug\net8.0\Portfolio.genruntimeconfig.cache
 D:\Web learning\_Portfolio\FrontEnd\Portfolio\obj\Debug\net8.0\ref\Portfolio.dll
+d:\Web learning\_Portfolio\FrontEnd\Portfolio\obj\Debug\net8.0\Portfolio.sourcelink.json
