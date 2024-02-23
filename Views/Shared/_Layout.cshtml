@@ -9,29 +9,22 @@
     <link rel="stylesheet" href="~/Portfolio.styles.css" asp-append-version="true" />
 </head>
 <body>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-1 position-absolute bottom-0 start-0 m-0 p-0 flip-top">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M64 32c17.7 0 32 14.3 32 32V416H288c17.7 0 32 14.3 32 32s-14.3 32-32 32H64c-17.7 0-32-14.3-32-32V64c0-17.7 14.3-32 32-32z"/></svg>
-            </div>
-
+  
+    <div>
+        <div class="top-L">
+            <svg height="200px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M64 32c17.7 0 32 14.3 32 32V416H288c17.7 0 32 14.3 32 32s-14.3 32-32 32H64c-17.7 0-32-14.3-32-32V64c0-17.7 14.3-32 32-32z"/></svg>
         </div>
-    </div>
 
-    <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
+
+        <div class="bottom-L">
+            <svg height="200px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M64 32c17.7 0 32 14.3 32 32V416H288c17.7 0 32 14.3 32 32s-14.3 32-32 32H64c-17.7 0-32-14.3-32-32V64c0-17.7 14.3-32 32-32z"/></svg>
+        </div>
     </div>
 
-    <div class="container-fluid">
-        <div class="row m-0 p-0 ">
-                <div class="col-1 position-absolute top-0 end-0 flip-bottom">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M64 32c17.7 0 32 14.3 32 32V416H288c17.7 0 32 14.3 32 32s-14.3 32-32 32H64c-17.7 0-32-14.3-32-32V64c0-17.7 14.3-32 32-32z"/></svg>
-                </div>
-
-            </div>
-    </div>
+    
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

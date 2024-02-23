@@ -1,8 +1,9 @@
-﻿.flip-top{
+﻿
 
-}
-.flip-bottom{
- 
+.top-L{
   -webkit-transform: scale(-1 -1);
   scale: -1 -1;
+  margin-top: -1.5rem;
 }
+
+
