@@ -1,14 +1,17 @@
 html {
   font-size: 14px;
+  color: #E8F1F2;
 }
 body {
-  background-color: #3E424B;
+  background-color: #13293D;
 }
 
 .container{
   margin-top: -6rem!important;
 }
 
+
+/* Index CSS */
 .main-message{
   margin-left: 3rem;
 }
@@ -16,6 +19,29 @@ body {
 #projects{
   justify-content: center;
 }
+
+.border-color{
+  border-color: #247BA0!important;
+}
+
+/* Index : Accordion CSS */
+.accordion-button{
+  background-color: #247BA0!important;
+  color: #13293D!important;
+
+}
+.accordion-button:after {
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>") !important;
+}
+
+.accordion-body{
+  background-color: #13293D!important;
+  color: #E8F1F2;
+}
+.accordion-item{
+  border: 1px solid #006494;
+}
+
 
 @media screen and (min-width: 992px) {
   #projects{
