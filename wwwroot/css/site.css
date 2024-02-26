@@ -13,7 +13,10 @@ body {
 
 /* Index CSS */
 .main-message{
-  margin-left: 3rem;
+  margin-left: 1.5rem;
+}
+.increase-display-font{
+  font-size: 5rem;
 }
 
 #projects{
@@ -22,6 +25,17 @@ body {
 
 .border-color{
   border-color: #247BA0!important;
+}
+ul{
+  list-style: none;
+  display: flex;
+  justify-content: end;
+  margin-left: -3em;
+  z-index: 1000000;
+
+  li{
+    margin-left: 30px;
+  }
 }
 
 /* Index : Accordion CSS */
