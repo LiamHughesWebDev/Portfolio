@@ -13,6 +13,50 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "d:\\Web learning\\_Portfolio\\FrontEnd\\Portfolio\\wwwroot\\images\\TheJourney-Presentation-min.jpg",
+      "PackagePath": "staticwebassets\\images\\TheJourney-Presentation-min.jpg"
+    },
+    {
+      "Id": "d:\\Web learning\\_Portfolio\\FrontEnd\\Portfolio\\wwwroot\\images\\TheJourney-Presentation.jpg",
+      "PackagePath": "staticwebassets\\images\\TheJourney-Presentation.jpg"
+    },
+    {
+      "Id": "d:\\Web learning\\_Portfolio\\FrontEnd\\Portfolio\\wwwroot\\images\\Web-Showcase-Project-Presentation-PIXEDEN.zip",
+      "PackagePath": "staticwebassets\\images\\Web-Showcase-Project-Presentation-PIXEDEN.zip"
+    },
+    {
+      "Id": "d:\\Web learning\\_Portfolio\\FrontEnd\\Portfolio\\wwwroot\\images\\Web-Showcase-Project-Presentation.psd",
+      "PackagePath": "staticwebassets\\images\\Web-Showcase-Project-Presentation.psd"
+    },
+    {
+      "Id": "d:\\Web learning\\_Portfolio\\FrontEnd\\Portfolio\\wwwroot\\images\\github.svg",
+      "PackagePath": "staticwebassets\\images\\github.svg"
+    },
+    {
+      "Id": "d:\\Web learning\\_Portfolio\\FrontEnd\\Portfolio\\wwwroot\\images\\icons8-gmail.svg",
+      "PackagePath": "staticwebassets\\images\\icons8-gmail.svg"
+    },
+    {
+      "Id": "d:\\Web learning\\_Portfolio\\FrontEnd\\Portfolio\\wwwroot\\images\\imagecompressor.zip",
+      "PackagePath": "staticwebassets\\images\\imagecompressor.zip"
+    },
+    {
+      "Id": "d:\\Web learning\\_Portfolio\\FrontEnd\\Portfolio\\wwwroot\\images\\l-solid.svg",
+      "PackagePath": "staticwebassets\\images\\l-solid.svg"
+    },
+    {
+      "Id": "d:\\Web learning\\_Portfolio\\FrontEnd\\Portfolio\\wwwroot\\images\\laptop-desk-notebook-computer-smartphone-screen-641575-pxhere.com.jpg",
+      "PackagePath": "staticwebassets\\images\\laptop-desk-notebook-computer-smartphone-screen-641575-pxhere.com.jpg"
+    },
+    {
+      "Id": "d:\\Web learning\\_Portfolio\\FrontEnd\\Portfolio\\wwwroot\\images\\linkedin.svg",
+      "PackagePath": "staticwebassets\\images\\linkedin.svg"
+    },
+    {
+      "Id": "d:\\Web learning\\_Portfolio\\FrontEnd\\Portfolio\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
       "Id": "d:\\Web learning\\_Portfolio\\FrontEnd\\Portfolio\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

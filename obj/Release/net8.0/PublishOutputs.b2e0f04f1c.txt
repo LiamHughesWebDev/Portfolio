@@ -1,0 +1,7 @@
+D:\Web learning\_Portfolio\FrontEnd\Portfolio\obj\Release\net8.0\PubTmp\Out\Portfolio.exe
+D:\Web learning\_Portfolio\FrontEnd\Portfolio\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Web learning\_Portfolio\FrontEnd\Portfolio\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Web learning\_Portfolio\FrontEnd\Portfolio\obj\Release\net8.0\PubTmp\Out\Portfolio.dll
+D:\Web learning\_Portfolio\FrontEnd\Portfolio\obj\Release\net8.0\PubTmp\Out\Portfolio.deps.json
+D:\Web learning\_Portfolio\FrontEnd\Portfolio\obj\Release\net8.0\PubTmp\Out\Portfolio.runtimeconfig.json
+D:\Web learning\_Portfolio\FrontEnd\Portfolio\obj\Release\net8.0\PubTmp\Out\Portfolio.pdb
